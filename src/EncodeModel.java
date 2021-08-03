@@ -1,5 +1,3 @@
-package Main;
-
 import java.awt.image.BufferedImage;
 import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
