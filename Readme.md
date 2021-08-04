@@ -1,6 +1,6 @@
-#Steganography
+# Steganography
 
-##Synopsis
+## Synopsis
 
 [Steganography](https://en.wikipedia.org/wiki/Steganography) is the practice of concealing a message within another message or a physical object. In 
 computing/electronic contexts, a computer file, message, image, or video is concealed within another file, message,
@@ -13,7 +13,7 @@ unnoticeable.
 
 In this project, **Image steganography** is implemented using LSB technique.
 
-##Table of Contents
+## Table of Contents
 
 > * [Title](#steganography)
 >   * [Synopsis](#synopsis)
@@ -22,11 +22,11 @@ In this project, **Image steganography** is implemented using LSB technique.
 >   * [Installation Guide](#installation-guide)
 >   * [Usage](#usage)
 
-##Dependencies
+## Dependencies
 
 - JavaFX SDK 11.0.2+
 
-##Installation Guide
+## Installation Guide
 
 This project is built using *IntelliJ IDEA 2020.2.3* and *java version 16.0.1*. Hence, the following steps are according
 to it. If the reader is using any other IDE, an updated version of IntelliJ IDEA or has java version less than 11, then
@@ -53,7 +53,7 @@ he/she has to do the required configuration listed below by themselves.
 
    * Apply the change and close the dialog.
 
-##Usage
+## Usage
 
 A [demo video](Demo.mp4) is uploaded along with the source code to make the working of the project clear. Here are the
 steps:
